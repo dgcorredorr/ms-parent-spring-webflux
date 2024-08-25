@@ -5,7 +5,7 @@
 # **MS Parent Spring Webflux**
 
 ## **Descripción**
-Este repositorio contiene un proyecto parent para microservicios basados en Spring Webflux dentro de la fábrica de software FullSpectrum Tech. Este parent hereda de `unique-parent-spring-webflux` y proporciona una configuración estándar para microservicios, incluyendo dependencias y plugins comunes para desarrollo, pruebas y despliegue.
+Este repositorio contiene un proyecto parent para microservicios basados en Spring Webflux dentro de la fábrica de software FullSpectrum Tech. Este parent hereda de `unique-parent-spring` y proporciona una configuración estándar para microservicios, incluyendo dependencias y plugins comunes para desarrollo, pruebas y despliegue.
 
 ## **Pre-requisitos**
 Para clonar y utilizar este proyecto parent, necesitará [Git](https://git-scm.com), [Java 17.0.11](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html), y [Maven](https://maven.apache.org/download.cgi) instalados en su computadora.
